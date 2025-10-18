@@ -1,4 +1,6 @@
 # Ryujinx-Shader-Cache
+Can´t post it here, files are bigger than 25 MB.
+
 Nvidia Shader:
 Mario Kart 8 Deluxe: https://www.mediafire.com/file/p8ns7ytutzsijzh/MK8_Nvidia_shader.7z/file 
 https://mega.nz/file/EdUSQApA#aPJy1OsjZh8PeGqoVcg2dZjOCOf3AAiVN1V6jKciP1Y
